@@ -30,6 +30,7 @@ a {
 }
 .banner h1 {
   font-size: 38px;
+  opacity: 0.9;
 }
 .banner p {
   font-size: 30px;
